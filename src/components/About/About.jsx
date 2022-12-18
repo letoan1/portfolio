@@ -15,7 +15,7 @@ export default function About() {
             <div className="container about__container">
                 <div className="about__me">
                     <div className="about__me-image">
-                        <img src={ABOUTME} alt="About Image" height="405px" style={{ minWidth: '405px' }} />
+                        <img src={ABOUTME} alt="About Image" />
                     </div>
                 </div>
 

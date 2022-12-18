@@ -19,6 +19,10 @@
         overflow: hidden;
         transform: rotate(10deg);
         transition: $transition;
+        & img {
+            width: 405px;
+            height: 405px;
+        }
     }
 
     .about__me-image:hover {
@@ -72,6 +76,7 @@
         grid-template-columns: 1fr;
         gap: 0;
     }
+
     .about__me {
         width: 50%;
         margin: 2rem auto 4rem;
@@ -82,18 +87,26 @@
 }
 
 @media screen and (max-width: 600px) {
-    .about__me {
-        width: 65%;
-        margin: 0 auto 3rem;
-    }
-    .about__cards {
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-    }
-    .about__content {
-        text-align: center;
-    }
-    .about__content p {
-        margin: 1.5rem 0;
+    .about__container {
+        .about__me {
+            width: 65%;
+            margin: 0 auto 3rem;
+        }
+        .about__me-image {
+            & img {
+                width: 220px;
+                height: 220px;
+            }
+        }
+        .about__cards {
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+        .about__content {
+            text-align: center;
+        }
+        .about__content p {
+            margin: 1.5rem 0;
+        }
     }
 }

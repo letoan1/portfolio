@@ -31,7 +31,7 @@ export default function Footer() {
             </ul>
 
             <div className="footer__socials">
-                <a href="https://facebook.com">
+                <a href="https://www.facebook.com/kook.toan.35">
                     <FaFacebookF />
                 </a>
                 <a href="https://instagram.com">
