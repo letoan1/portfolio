@@ -60,6 +60,12 @@ export default function Experience() {
                                 <h4>TypeScript</h4>
                             </div>
                         </article>
+                        <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon" />
+                            <div>
+                                <h4>Figma</h4>
+                            </div>
+                        </article>
                     </div>
                 </div>
 
@@ -76,18 +82,6 @@ export default function Experience() {
                             <BsPatchCheckFill className="experience__details-icon" />
                             <div>
                                 <h4>MongoDB</h4>
-                            </div>
-                        </article>
-                        <article className="experience__details">
-                            <BsPatchCheckFill className="experience__details-icon" />
-                            <div>
-                                <h4>MySQL</h4>
-                            </div>
-                        </article>
-                        <article className="experience__details">
-                            <BsPatchCheckFill className="experience__details-icon" />
-                            <div>
-                                <h4>PHP</h4>
                             </div>
                         </article>
                     </div>

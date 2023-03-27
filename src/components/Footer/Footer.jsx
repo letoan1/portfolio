@@ -9,7 +9,7 @@ export default function Footer() {
     return (
         <footer>
             <a href="#" className="footer__logo">
-                EGATOR
+                TOAN
             </a>
 
             <ul className="permalinks">

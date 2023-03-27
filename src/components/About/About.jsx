@@ -38,7 +38,7 @@ export default function About() {
                         </article>
                     </div>
                     <p>
-                        Hi! My name is Toan, I'm 20 years old and currently a final year student at FPT Polytechnic
+                        Hi! My name is Toan, I'm 21 years old and currently a final year student at FPT Polytechnic
                         Danang. My chance to come to IT is thanks to the legend "IT is the king of professions", or the
                         story "mechanical brother was born in 96". I have more than 1 year of experience with school
                         projects as well as real projects, I promise to design the best web for you.
