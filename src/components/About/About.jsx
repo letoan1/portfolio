@@ -38,10 +38,13 @@ export default function About() {
                         </article>
                     </div>
                     <p>
-                        Hi! My name is Toan, I'm 21 years old and currently a final year student at FPT Polytechnic
-                        Danang. My chance to come to IT is thanks to the legend "IT is the king of professions", or the
-                        story "mechanical brother was born in 96". I have more than 1 year of experience with school
-                        projects as well as real projects, I promise to design the best web for you.
+                        Hi! My name's Toan, im 22 years old and I graduated from FPT Polytechnic Danang in 2023. As an
+                        ambitious web developer, I have accumulated over a year of practical experience in real-world
+                        projects. I am deeply inspired by the belief that "IT is the king of professions," an idea
+                        fueled by success stories like that of the "mechanical brother born in '96." With a clear aim to
+                        rise to the position of Senior Frontend Developer within the next four years, I am eager to
+                        tackle new challenges. I am committed to employing my skills in web development to create
+                        innovative and efficient web design solutions that exceed expectations.
                     </p>
                     <a href="#contact" className="btn btn-primary">
                         Let's Talk
